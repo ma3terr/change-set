@@ -1,0 +1,14 @@
+[
+  {
+    "key": "a",
+    "kind": "updated"
+  },
+  {
+    "key": "b",
+    "kind": "removed"
+  },
+  {
+    "key": "c",
+    "kind": "added"
+  }
+]

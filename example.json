@@ -1,0 +1,10 @@
+{
+  "before": {
+    "a": 1,
+    "b": false
+  },
+  "after": {
+    "a": 2,
+    "c": null
+  }
+}
